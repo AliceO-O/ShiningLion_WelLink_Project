@@ -1,0 +1,28 @@
+﻿influencer_campaign_review_id,influencer_id,campaign_id,contacted_at,contact_channel,campaign_review_score
+infcam-0001,Inf-0059,cam-0001,2026-04-26 19:52:38,Instagram DM,5
+infcam-0002,Inf-0035,cam-0001,2026-05-11 18:53:34,Instagram DM,4
+infcam-0003,Inf-0103,cam-0001,2026-04-26 16:37:48,KakaoTalk,4
+infcam-0004,Inf-0090,cam-0001,2026-04-27 00:08:57,Email,3
+infcam-0005,Inf-0111,cam-0001,2026-05-08 13:34:34,Email,5
+infcam-0006,Inf-0036,cam-0001,2026-04-27 10:40:03,Email,3
+infcam-0007,Inf-0017,cam-0001,2026-04-25 21:24:50,Instagram DM,1
+infcam-0008,Inf-0095,cam-0001,2026-05-04 12:40:01,Instagram DM,4
+infcam-0009,Inf-0032,cam-0001,2026-04-29 04:51:09,Message,3
+infcam-0010,Inf-0104,cam-0002,2026-05-04 13:55:43,Instagram DM,5
+infcam-0011,Inf-0163,cam-0002,2026-05-10 00:45:52,Instagram DM,3
+infcam-0012,Inf-0069,cam-0002,2026-05-12 10:28:05,Instagram DM,1
+infcam-0013,Inf-0059,cam-0002,2026-05-01 01:03:52,Email,3
+infcam-0014,Inf-0010,cam-0002,2026-04-27 05:32:10,Email,4
+infcam-0015,Inf-0166,cam-0002,2026-05-09 06:47:59,Instagram DM,3
+infcam-0016,Inf-0064,cam-0002,2026-05-02 22:02:23,Email,3
+infcam-0017,Inf-0028,cam-0002,2026-05-09 01:22:37,Message,5
+infcam-0018,Inf-0133,cam-0003,2026-05-31 00:52:34,Email,4
+infcam-0019,Inf-0101,cam-0003,2026-05-24 08:38:43,Message,4
+infcam-0020,Inf-0002,cam-0003,2026-05-11 13:58:58,KakaoTalk,5
+infcam-0021,Inf-0116,cam-0003,2026-05-14 23:11:34,Instagram DM,3
+infcam-0022,Inf-0067,cam-0003,2026-05-13 21:27:34,Email,1
+infcam-0023,Inf-0121,cam-0003,2026-05-23 16:31:52,Message,5
+infcam-0024,Inf-0051,cam-0003,2026-05-22 22:13:37,KakaoTalk,4
+infcam-0025,Inf-0191,cam-0003,2026-05-25 09:08:09,KakaoTalk,2
+infcam-0026,Inf-0071,cam-0003,2026-05-15 22:08:51,Email,3
+infcam-0027,Inf-0137,cam-0003,2026-05-16 06:34:03,Email,3

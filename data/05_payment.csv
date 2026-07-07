@@ -1,0 +1,71 @@
+﻿payment_item_id,payment_user_id,client_id,campaign_id,content_id,influencer_id,payment_at,payment_method,payment_amount,product_name,discount_code,referral_link
+payite-0001,payuse-0001,cli-0001,,,,2026-05-14 5:52,NaverPay,50000,ROAR 여성 수영복 세트 (수영모+수영복+수경),,
+payite-0002,payuse-0002,cli-0001,cam-0003,con-0021,Inf-0069,2026-05-14 12:30,TossPay,18000,ROAR 수영 샴푸,LIONSWIM_mcoulbeck1w,
+payite-0003,payuse-0003,cli-0001,,,,2026-05-18 1:28,신용카드,50000,ROAR 여성 수영복 세트 (수영모+수영복+수경),,
+payite-0004,payuse-0004,cli-0001,,,,2026-05-21 21:33,NaverPay,20000,ROAR 수영 샴푸,,
+payite-0005,payuse-0005,cli-0001,,,,2026-05-22 4:43,NaverPay,50000,ROAR 남성 수영복 세트 (수영모+수영복+수경),,
+payite-0006,payuse-0006,cli-0001,,,,2026-05-23 10:03,KakaoPay,20000,ROAR 수영 샴푸,,
+payite-0007,payuse-0007,cli-0001,cam-0002,con-0001,Inf-0200,2026-05-24 0:36,KakaoPay,50000,ROAR 남성 수영복 세트 (수영모+수영복+수경),,https://wellink.com/signup?ref=Inf-0200
+payite-0008,payuse-0008,cli-0001,cam-0002,con-0011,Inf-0137,2026-05-24 15:30,TossPay,50000,ROAR 여성 수영복 세트 (수영모+수영복+수경),,https://wellink.com/signup?ref=Inf-0137
+payite-0009,payuse-0009,cli-0001,cam-0002,con-0018,Inf-0029,2026-05-25 0:58,TossPay,45000,ROAR 남성 수영복 세트 (수영모+수영복+수경),LIONSWIM_tlokers,
+payite-0010,payuse-0009,cli-0001,cam-0002,con-0018,Inf-0029,2026-05-25 0:58,TossPay,45000,ROAR 남성 수영복 세트 (수영모+수영복+수경),LIONSWIM_tlokers,
+payite-0011,payuse-0010,cli-0001,cam-0001,con-0010,Inf-0097,2026-05-25 2:36,NaverPay,20000,ROAR 수영 샴푸,,https://wellink.com/signup?ref=Inf-0097
+payite-0012,payuse-0011,cli-0001,cam-0001,con-0007,Inf-0121,2026-05-25 7:14,KakaoPay,45000,ROAR 여성 수영복 세트 (수영모+수영복+수경),LIONSWIM_jbreche3c,
+payite-0013,payuse-0012,cli-0001,,,,2026-05-25 15:39,KakaoPay,50000,ROAR 여성 수영복 세트 (수영모+수영복+수경),,
+payite-0014,payuse-0013,cli-0001,cam-0001,con-0008,Inf-0051,2026-05-25 16:12,NaverPay,50000,ROAR 여성 수영복 세트 (수영모+수영복+수경),,https://wellink.com/signup?ref=Inf-0051
+payite-0015,payuse-0013,cli-0001,cam-0001,con-0008,Inf-0051,2026-05-25 16:12,NaverPay,50000,ROAR 여성 수영복 세트 (수영모+수영복+수경),,https://wellink.com/signup?ref=Inf-0051
+payite-0016,payuse-0014,cli-0001,cam-0001,con-0013,Inf-0178,2026-05-25 18:05,NaverPay,45000,ROAR 남성 수영복 세트 (수영모+수영복+수경),LIONSWIM_wvergo4x,
+payite-0017,payuse-0015,cli-0001,cam-0002,con-0005,Inf-0125,2026-05-26 4:59,NaverPay,18000,ROAR 수영 샴푸,LIONSWIM_hmasden3g,
+payite-0018,payuse-0016,cli-0001,cam-0001,con-0006,Inf-0060,2026-05-26 23:38,TossPay,18000,ROAR 수영 샴푸,LIONSWIM_hgemlett1n,
+payite-0019,payuse-0016,cli-0001,cam-0001,con-0006,Inf-0060,2026-05-26 23:38,TossPay,45000,ROAR 여성 수영복 세트 (수영모+수영복+수경),LIONSWIM_hgemlett1n,
+payite-0020,payuse-0016,cli-0001,cam-0001,con-0006,Inf-0060,2026-05-26 23:38,TossPay,45000,ROAR 남성 수영복 세트 (수영모+수영복+수경),LIONSWIM_hgemlett1n,
+payite-0021,payuse-0017,cli-0001,,,,2026-05-27 21:03,NaverPay,50000,ROAR 남성 수영복 세트 (수영모+수영복+수경),,
+payite-0022,payuse-0018,cli-0001,,,,2026-05-28 22:55,KakaoPay,20000,ROAR 수영 샴푸,,
+payite-0023,payuse-0019,cli-0001,,,,2026-05-29 8:42,TossPay,50000,ROAR 여성 수영복 세트 (수영모+수영복+수경),,
+payite-0024,payuse-0020,cli-0001,cam-0002,con-0002,Inf-0186,2026-05-29 12:42,KakaoPay,18000,ROAR 수영 샴푸,LIONSWIM_tenterle55,
+payite-0025,payuse-0020,cli-0001,cam-0002,con-0002,Inf-0186,2026-05-29 12:42,KakaoPay,45000,ROAR 여성 수영복 세트 (수영모+수영복+수경),LIONSWIM_tenterle55,
+payite-0026,payuse-0021,cli-0001,cam-0001,con-0012,Inf-0159,2026-05-29 18:41,TossPay,45000,ROAR 남성 수영복 세트 (수영모+수영복+수경),LIONSWIM_dsandsallan4e,https://wellink.com/signup?ref=Inf-0159
+payite-0027,payuse-0021,cli-0001,cam-0001,con-0012,Inf-0159,2026-05-29 18:41,TossPay,45000,ROAR 여성 수영복 세트 (수영모+수영복+수경),LIONSWIM_dsandsallan4e,https://wellink.com/signup?ref=Inf-0159
+payite-0028,payuse-0022,cli-0001,,,,2026-06-01 11:54,KakaoPay,20000,ROAR 수영 샴푸,,
+payite-0029,payuse-0023,cli-0001,cam-0001,con-0009,Inf-0032,2026-06-01 14:25,신용카드,20000,ROAR 수영 샴푸,,https://wellink.com/signup?ref=Inf-0032
+payite-0030,payuse-0023,cli-0001,cam-0001,con-0009,Inf-0032,2026-06-01 14:25,신용카드,20000,ROAR 수영 샴푸,,https://wellink.com/signup?ref=Inf-0032
+payite-0031,payuse-0023,cli-0001,cam-0001,con-0009,Inf-0032,2026-06-01 14:25,신용카드,20000,ROAR 수영 샴푸,,https://wellink.com/signup?ref=Inf-0032
+payite-0032,payuse-0024,cli-0001,cam-0001,con-0016,Inf-0126,2026-06-02 2:46,TossPay,18000,ROAR 수영 샴푸,LIONSWIM_ocanfer3h,
+payite-0033,payuse-0024,cli-0001,cam-0001,con-0016,Inf-0126,2026-06-02 2:46,TossPay,18000,ROAR 수영 샴푸,LIONSWIM_ocanfer3h,
+payite-0034,payuse-0025,cli-0001,cam-0002,con-0004,Inf-0086,2026-06-02 19:53,신용카드,45000,ROAR 남성 수영복 세트 (수영모+수영복+수경),LIONSWIM_gaaronson2d,
+payite-0035,payuse-0026,cli-0001,,,,2026-06-02 22:18,KakaoPay,50000,ROAR 남성 수영복 세트 (수영모+수영복+수경),,
+payite-0036,payuse-0026,cli-0001,,,,2026-06-02 22:18,KakaoPay,50000,ROAR 남성 수영복 세트 (수영모+수영복+수경),,
+payite-0037,payuse-0027,cli-0001,,,,2026-06-03 17:12,KakaoPay,50000,ROAR 여성 수영복 세트 (수영모+수영복+수경),,
+payite-0038,payuse-0028,cli-0001,,,,2026-06-03 23:52,NaverPay,20000,ROAR 수영 샴푸,,
+payite-0039,payuse-0028,cli-0001,,,,2026-06-03 23:52,NaverPay,20000,ROAR 수영 샴푸,,
+payite-0040,payuse-0029,cli-0001,cam-0002,con-0019,Inf-0071,2026-06-05 4:38,신용카드,45000,ROAR 여성 수영복 세트 (수영모+수영복+수경),LIONSWIM_dkubatsch1y,
+payite-0041,payuse-0030,cli-0001,cam-0001,con-0014,Inf-0109,2026-06-05 21:22,TossPay,45000,ROAR 남성 수영복 세트 (수영모+수영복+수경),LIONSWIM_ksone30,https://wellink.com/signup?ref=Inf-0109
+payite-0042,payuse-0030,cli-0001,cam-0001,con-0014,Inf-0109,2026-06-05 21:22,TossPay,45000,ROAR 여성 수영복 세트 (수영모+수영복+수경),LIONSWIM_ksone30,https://wellink.com/signup?ref=Inf-0109
+payite-0043,payuse-0031,cli-0001,cam-0002,con-0003,Inf-0030,2026-06-05 22:49,KakaoPay,20000,ROAR 수영 샴푸,,https://wellink.com/signup?ref=Inf-0030
+payite-0044,payuse-0032,cli-0001,cam-0002,con-0017,Inf-0038,2026-06-05 23:28,TossPay,45000,ROAR 남성 수영복 세트 (수영모+수영복+수경),LIONSWIM_binsley11,https://wellink.com/signup?ref=Inf-0038
+payite-0045,payuse-0033,cli-0001,,,,2026-06-06 20:21,TossPay,20000,ROAR 수영 샴푸,,
+payite-0046,payuse-0034,cli-0001,cam-0003,con-0026,Inf-0134,2026-06-07 11:29,KakaoPay,45000,ROAR 여성 수영복 세트 (수영모+수영복+수경),LIONSWIM_fzouch3p,
+payite-0047,payuse-0034,cli-0001,cam-0003,con-0026,Inf-0134,2026-06-07 11:29,KakaoPay,45000,ROAR 남성 수영복 세트 (수영모+수영복+수경),LIONSWIM_fzouch3p,
+payite-0048,payuse-0035,cli-0001,cam-0003,con-0025,Inf-0139,2026-06-07 12:05,KakaoPay,45000,ROAR 남성 수영복 세트 (수영모+수영복+수경),LIONSWIM_hansty3u,https://wellink.com/signup?ref=Inf-0139
+payite-0049,payuse-0035,cli-0001,cam-0003,con-0025,Inf-0139,2026-06-07 12:05,KakaoPay,45000,ROAR 남성 수영복 세트 (수영모+수영복+수경),LIONSWIM_hansty3u,https://wellink.com/signup?ref=Inf-0139
+payite-0050,payuse-0036,cli-0001,cam-0003,con-0030,Inf-0065,2026-06-07 12:42,NaverPay,45000,ROAR 여성 수영복 세트 (수영모+수영복+수경),LIONSWIM_ccancutt1s,
+payite-0051,payuse-0037,cli-0001,cam-0003,con-0028,Inf-0074,2026-06-08 8:19,NaverPay,18000,ROAR 수영 샴푸,LIONSWIM_kmcgannon21,
+payite-0052,payuse-0037,cli-0001,cam-0003,con-0028,Inf-0074,2026-06-08 8:19,NaverPay,45000,ROAR 여성 수영복 세트 (수영모+수영복+수경),LIONSWIM_kmcgannon21,
+payite-0053,payuse-0037,cli-0001,cam-0003,con-0028,Inf-0074,2026-06-08 8:19,NaverPay,45000,ROAR 남성 수영복 세트 (수영모+수영복+수경),LIONSWIM_kmcgannon21,
+payite-0054,payuse-0038,cli-0001,,,,2026-06-09 23:15,KakaoPay,20000,ROAR 수영 샴푸,,
+payite-0055,payuse-0039,cli-0001,cam-0003,con-0029,Inf-0129,2026-06-10 20:29,KakaoPay,18000,ROAR 수영 샴푸,LIONSWIM_gcrosfeld3k,https://wellink.com/signup?ref=Inf-0129
+payite-0056,payuse-0040,cli-0001,cam-0003,con-0022,Inf-0072,2026-06-11 1:25,신용카드,45000,ROAR 여성 수영복 세트 (수영모+수영복+수경),LIONSWIM_msetter1z,https://wellink.com/signup?ref=Inf-0072
+payite-0057,payuse-0041,cli-0001,,,,2026-06-12 7:13,신용카드,50000,ROAR 여성 수영복 세트 (수영모+수영복+수경),,
+payite-0058,payuse-0041,cli-0001,,,,2026-06-12 7:13,신용카드,50000,ROAR 남성 수영복 세트 (수영모+수영복+수경),,
+payite-0059,payuse-0042,cli-0001,cam-0003,con-0020,Inf-0078,2026-06-12 15:30,KakaoPay,45000,ROAR 남성 수영복 세트 (수영모+수영복+수경),LIONSWIM_dmersh25,https://wellink.com/signup?ref=Inf-0078
+payite-0060,payuse-0042,cli-0001,cam-0003,con-0020,Inf-0078,2026-06-12 15:30,KakaoPay,18000,ROAR 수영 샴푸,LIONSWIM_dmersh25,https://wellink.com/signup?ref=Inf-0078
+payite-0061,payuse-0043,cli-0001,cam-0003,con-0027,Inf-0151,2026-06-12 17:56,TossPay,45000,ROAR 여성 수영복 세트 (수영모+수영복+수경),LIONSWIM_dmoncur46,https://wellink.com/signup?ref=Inf-0151
+payite-0062,payuse-0044,cli-0001,cam-0003,con-0023,Inf-0099,2026-06-12 18:45,KakaoPay,45000,ROAR 여성 수영복 세트 (수영모+수영복+수경),LIONSWIM_sfido2q,https://wellink.com/signup?ref=Inf-0099
+payite-0063,payuse-0044,cli-0001,cam-0003,con-0023,Inf-0099,2026-06-12 18:45,KakaoPay,20000,ROAR 수영 샴푸,LIONSWIM_sfido2q,https://wellink.com/signup?ref=Inf-0099
+payite-0064,payuse-0045,cli-0001,cam-0003,con-0031,Inf-0189,2026-06-12 19:53,TossPay,50000,ROAR 남성 수영복 세트 (수영모+수영복+수경),,https://wellink.com/signup?ref=Inf-0189
+payite-0065,payuse-0046,cli-0001,,,,2026-06-13 1:29,TossPay,50000,ROAR 남성 수영복 세트 (수영모+수영복+수경),,
+payite-0066,payuse-0046,cli-0001,,,,2026-06-13 1:29,TossPay,50000,ROAR 여성 수영복 세트 (수영모+수영복+수경),,
+payite-0067,payuse-0047,cli-0001,cam-0003,con-0033,Inf-0095,2026-06-13 10:14,TossPay,20000,ROAR 수영 샴푸,,https://wellink.com/signup?ref=Inf-0095
+payite-0068,payuse-0048,cli-0001,cam-0003,con-0032,Inf-0103,2026-06-13 14:51,KakaoPay,45000,ROAR 여성 수영복 세트 (수영모+수영복+수경),LIONSWIM_apavlitschek2u,
+payite-0069,payuse-0049,cli-0001,cam-0003,con-0024,Inf-0113,2026-06-13 16:58,TossPay,45000,ROAR 여성 수영복 세트 (수영모+수영복+수경),LIONSWIM_emergue34,
+payite-0070,payuse-0050,cli-0001,,,,2026-06-13 22:46,신용카드,20000,ROAR 수영 샴푸,,
